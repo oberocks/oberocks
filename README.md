@@ -1,4 +1,35 @@
-<h1 align="center">Happy Coding To All<h1>
+```javascript
+let oberocks = {
+    author: ['Matt', 'Smash', 'McT'],
+    pronouns: 'He' || 'Him',
+    focuses: ['Web Design Systems', 'Web Apps', 'Device Agnostic Interfaces', 'Accessibility', 'Data Visualization'],
+    architectures: ['Server-Side', 'SPAs', 'PWAs', 'Static'],
+    stacks: ['LAMP', 'LEMP', 'JAM', 'MEAN'],
+    skills: {
+        backEnd: {
+            php: ['Laravel', 'CodeIgniter', 'Node.js', 'Cake'],
+            storage: ['MySql', 'MongoDB', 'Sqlite']
+        },
+        frontEnd: {
+            css: ['Bootstrap', 'TailwindCSS', 'Vuetify', 'OBE:BS4'],
+            js: ['Vanilla', 'ESM', 'jQuery', 'Vue', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js', 'JSON'],
+            markup: ['HTML', 'XML']
+        },
+        uxDesign: {
+            tools: ['Figma', 'XD', 'Browsers']
+        },
+        visualDesign: {
+            tools: ['Illustrator', 'Photoshop', 'InDesign', 'Keynote', 'PowerPoint']
+        },
+        audio: {
+            tools: ['Reason', 'Pro Tools', 'Live']
+        },
+        misc: ['Python', 'Ruby']
+    },
+    enjoys: ['Digital Production', 'Mise en abymes', 'Learning', 'Surf/Skate', 'Pizza', 'Video Games'],
+    studies: ['Media Production', 'Responsive Design', 'Color Theory', 'Behaviorial Psychology']
+};
+```
 
 
 <div align="center">
