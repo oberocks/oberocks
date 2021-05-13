@@ -1,17 +1,30 @@
-# Hi there 👋
+<h1 align="center">Happy Coding To All<h1>
+
+
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oberocks&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-![oberocks' GitHub Stats](https://github-readme-stats.vercel.app/api?username=oberocks&count_private=true&show_icons=true&theme=dracula)
+![oberocks' GitHub Stats](https://github-readme-stats.vercel.app/api?username=oberocks&count_private=true&show_icons=true&hide_border=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oberocks&layout=compact&langs_count=8&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oberocks&layout=compact&langs_count=8&hide_border=true&theme=dracula)
 
-
+<div>
 
 
 
 <!--
 **oberocks/oberocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
 
 Here are some ideas to get you started:
 
