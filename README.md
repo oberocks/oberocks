@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oberocks&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 ![oberocks' GitHub Stats](https://github-readme-stats.vercel.app/api?username=oberocks&count_private=true&show_icons=true&theme=dracula) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oberocks&layout=compact&langs_count=8&theme=dracula)
 
 
