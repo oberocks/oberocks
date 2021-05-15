@@ -25,6 +25,9 @@ let oberocks = {
         audio: {
             tools: ['Reason', 'Pro Tools', 'Live']
         },
+        motionGrahics: {
+            tools: ['After Effects', 'Character Animator', 'Premere']
+        },
         misc: ['Python', 'Ruby']
     },
     enjoys: ['Digital Production', 'Mise en abymes', 'Learning', 'Surf/Skate', 'Pizza', 'Video Games'],
