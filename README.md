@@ -5,7 +5,7 @@ let oberocks = {
     focuses: ['Web Apps & Design Systems', 'Device Agnostic Interfaces', 'Data Visualization', 'Accessibility'],
     architectures: ['Server-Side', 'SPAs', 'PWAs', 'Static'],
     stacks: ['LAMP', 'LEMP', 'JAM', 'MEAN'],
-    skills: {
+    skillsForBills: {
         backEnd: {
             php: ['Laravel', 'CodeIgniter', 'Node.js', 'Cake'],
             storage: ['MySql', 'MongoDB', 'Sqlite', 'S3', 'Spaces']
