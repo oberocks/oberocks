@@ -13,8 +13,8 @@ let oberocks = {
         frontEnd: {
             css: ['Bootstrap', 'TailwindCSS', 'Vuetify', 'OBE:BS4'],
             js: ['Vanilla', 'ESM', 'jQuery', 'Vue', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
-            markup: ['HTML', 'XML'],
-            storage: ['JSON']
+            markup: ['HTML', 'SVG XML'],
+            storage: ['JSON', 'XML']
         },
         uxDesign: {
             tools: ['Figma', 'XD', 'Browsers']
