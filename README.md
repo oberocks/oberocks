@@ -18,7 +18,7 @@ let oberocks = {
             animation: ['GSAP', 'Anime']
         },
         uxDesign: {
-            tools: ['Figma', 'XD', 'Browsers']
+            tools: ['Browsers', 'Figma', 'XD']
         },
         visualDesign: {
             tools: ['Illustrator', 'Photoshop', 'InDesign', 'Keynote', 'PowerPoint']
