@@ -8,12 +8,13 @@ let oberocks = {
     skills: {
         backEnd: {
             php: ['Laravel', 'CodeIgniter', 'Node.js', 'Cake'],
-            storage: ['MySql', 'MongoDB', 'Sqlite']
+            storage: ['MySql', 'MongoDB', 'Sqlite', 'S3', 'Spaces']
         },
         frontEnd: {
             css: ['Bootstrap', 'TailwindCSS', 'Vuetify', 'OBE:BS4'],
-            js: ['Vanilla', 'ESM', 'jQuery', 'Vue', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js', 'JSON'],
-            markup: ['HTML', 'XML']
+            js: ['Vanilla', 'ESM', 'jQuery', 'Vue', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
+            markup: ['HTML', 'XML'],
+            storage: ['JSON']
         },
         uxDesign: {
             tools: ['Figma', 'XD', 'Browsers']
