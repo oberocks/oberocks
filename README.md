@@ -2,7 +2,7 @@
 let oberocks = {
     author: ['Matt', 'Smash', 'McT'],
     pronouns: 'He' || 'Him',
-    focuses: ['Web Design Systems', 'Web Apps', 'Device Agnostic Interfaces', 'Accessibility', 'Data Visualization'],
+    focuses: ['Web Apps & Design Systems', 'Device Agnostic Interfaces', 'Data Visualization', 'Accessibility'],
     architectures: ['Server-Side', 'SPAs', 'PWAs', 'Static'],
     stacks: ['LAMP', 'LEMP', 'JAM', 'MEAN'],
     skills: {
