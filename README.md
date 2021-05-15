@@ -14,7 +14,8 @@ let oberocks = {
             css: ['Bootstrap', 'TailwindCSS', 'Vuetify', 'OBE:BS4'],
             js: ['Vanilla', 'ESM', 'jQuery', 'Vue', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
             markup: ['HTML', 'SVG XML'],
-            storage: ['JSON', 'XML']
+            storage: ['JSON', 'XML'],
+            animation: ['GSAP', 'Anime']
         },
         uxDesign: {
             tools: ['Figma', 'XD', 'Browsers']
@@ -25,7 +26,7 @@ let oberocks = {
         audio: {
             tools: ['Reason', 'Pro Tools', 'Live']
         },
-        motionGrahics: {
+        video: {
             tools: ['After Effects', 'Character Animator', 'Premere']
         },
         misc: ['Python', 'Ruby']
