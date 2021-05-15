@@ -29,7 +29,7 @@ let oberocks = {
         video: {
             tools: ['After Effects', 'Character Animator', 'Premere']
         },
-        misc: ['Python', 'Ruby']
+        misc: ['Python', 'Ruby', 'ASP.NET']
     },
     enjoys: ['Digital Production', 'Mise en abymes', 'Learning', 'Surf/Skate', 'Pizza', 'Video Games'],
     studies: ['Media Production', 'Responsive Design', 'Color Theory', 'Behaviorial Psychology']
