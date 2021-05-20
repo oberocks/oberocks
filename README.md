@@ -1,24 +1,23 @@
 ```javascript
 let oberocks = {
     author: ['Matt', 'Smash', 'McT'],
-    pronouns: 'He' || 'Him',
-    focuses: ['Web Apps & Design Systems', 'Device Agnostic Interfaces', 'Data Visualization', 'Accessibility'],
+    digs: ['Web Apps & Design Systems', 'Device Agnostic Interfaces', 'Data Visualization', 'Accessibility'],
     architectures: ['Server-Side', 'SPAs', 'PWAs', 'Static'],
     stacks: ['LAMP', 'LEMP', 'JAM', 'MEAN'],
-    skillsForBills: {
+    forLulz: {
         backEnd: {
             php: ['Laravel', 'CodeIgniter', 'Node.js', 'Cake'],
-            storage: ['MySql', 'MongoDB', 'Sqlite', 'S3', 'Spaces']
+            storage: ['MySql', 'MongoDB', 'Sqlite']
         },
         frontEnd: {
             css: ['Bootstrap', 'TailwindCSS', 'Vuetify', 'OBE:BS4'],
-            js: ['Vanilla', 'ESM', 'jQuery', 'Vue', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
+            js: ['ESM', 'jQuery', 'Vue', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
             markup: ['HTML', 'SVG XML'],
             storage: ['JSON', 'XML'],
             animation: ['GSAP', 'Anime']
         },
         uxDesign: {
-            tools: ['Browsers', 'Figma', 'XD']
+            tools: ['Much Browsers', 'Figma', 'XD']
         },
         visualDesign: {
             tools: ['Illustrator', 'Photoshop', 'InDesign', 'Keynote', 'PowerPoint']
@@ -27,7 +26,7 @@ let oberocks = {
             tools: ['Reason', 'Pro Tools', 'Live']
         },
         video: {
-            tools: ['After Effects', 'Character Animator', 'Premere', 'C4D']
+            tools: ['After Effects', 'Premiere', 'C4D', 'Character Animator']
         },
         misc: ['Python', 'Ruby', 'ASP.NET']
     },
