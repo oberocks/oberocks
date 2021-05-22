@@ -53,6 +53,8 @@ let oberocks = {
 <!--
 **oberocks/oberocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 <p align="center">
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
@@ -63,6 +65,8 @@ let oberocks = {
 </p>
 
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -71,7 +75,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - https://github.com/anuraghazra/github-readme-stats
 -->
