@@ -26,7 +26,7 @@ let oberocks = {
             tools: ['Reason', 'Pro Tools', 'Live']
         },
         video: {
-            tools: ['After Effects', 'Premiere', 'C4D', 'Character Animator']
+            tools: ['After Effects', 'Premiere', 'C4D', 'Character Animator', 'iMovie']
         },
         misc: ['Python', 'Ruby', 'ASP.NET']
     },
