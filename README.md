@@ -14,7 +14,7 @@ let oberocks = {
             js: ['ESM', 'jQuery', 'Vue', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
             markup: ['HTML', 'SVG XML'],
             storage: ['JSON', 'XML'],
-            animation: ['GSAP', 'Anime.js']
+            animation: ['CSS', 'GSAP', 'Anime.js']
         },
         uxDesign: {
             tools: ['Much Browsers', 'Figma', 'XD']
