@@ -11,7 +11,7 @@ let oberocks = {
         },
         frontEnd: {
             css: ['Bootstrap', 'TailwindCSS', 'Vuetify', 'OBE:BS4'],
-            js: ['ESM', 'jQuery', 'Vue', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
+            js: ['Vanilla/ESM', 'jQuery', 'Vue', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
             markup: ['HTML', 'SVG XML'],
             storage: ['JSON', 'XML'],
             animation: ['CSS', 'GSAP', 'Anime.js']
