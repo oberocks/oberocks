@@ -2,7 +2,7 @@
 let oberocks = {
     author: ['Matt McT'],
     digs: ['Web Apps', 'Web Design Systems', 'Device Agnostic Interfaces', 'Data Visualization', 'Accessibility'],
-    architectures: ['Server-Side', 'SPAs', 'PWAs', 'Static'],
+    architectures: ['MPA', 'SPA', 'PWA', 'Static'],
     stacks: ['LAMP', 'LEMP', 'JAM', 'MEAN'],
     weaponry: {
         backEnd: {
