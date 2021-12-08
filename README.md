@@ -3,7 +3,7 @@ let oberocks = {
     author: ['Matt McT'],
     digs: ['Web Apps', 'Web Design Systems', 'Device Agnostic Interfaces', 'Data Visualization', 'Accessibility'],
     architectures: ['MPA', 'SPA', 'PWA', 'Static'],
-    stacks: ['VILT', 'LAMP', 'LEMP', 'JAM', 'MEAN'],
+    stacks: ['VILT', 'JAM', 'LEMP', 'LAMP', 'MEAN'],
     weaponry: {
         backEnd: {
             php: ['Laravel', 'CodeIgniter', 'Node.js', 'Cake'],
