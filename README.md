@@ -1,7 +1,7 @@
 ```javascript
 let oberocks = {
     author: ['Matt McT'],
-    digs: ['Web Apps', 'Web Design Systems', 'Device Agnostic Interfaces', 'Data Visualization', 'Accessibility'],
+    digs: ['Web Apps', 'Web Design Systems', 'Device Agnostic UI', 'Data Viz', 'Accessibility'],
     architectures: ['MPA', 'SPA', 'PWA', 'Static'],
     stacks: ['VILT', 'LEMP', 'JAM', 'LAMP', 'MEAN'],
     weaponry: {
