@@ -10,7 +10,7 @@ let oberocks = {
             storage: ['MySql', 'MongoDB', 'Sqlite']
         },
         frontEnd: {
-            css: ['Bootstrap', 'TailwindCSS', 'Vuetify', 'OBE:BS4'],
+            css: ['TailwindCSS', 'Bootstrap', 'Vuetify', 'OBE:BS4'],
             js: ['Vue', 'Vanilla/ESM', 'jQuery', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
             markup: ['HTML', 'SVG XML'],
             storage: ['JSON', 'XML'],
