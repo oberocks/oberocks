@@ -7,14 +7,16 @@ let oberocks = {
     tools: {
         backEnd: {
             php: ['Laravel', 'CodeIgniter', 'Node.js', 'Cake'],
-            storage: ['MySql', 'MongoDB', 'Sqlite']
+            storage: ['MySql', 'MongoDB', 'Sqlite'],
+            testing: ['PHPUnit', 'Laravel Dusk']
         },
         frontEnd: {
             css: ['TailwindCSS', 'Bootstrap', 'Vuetify', 'OBE:BS4'],
             js: ['Vue', 'Vanilla/ESM', 'jQuery', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
             markup: ['HTML', 'SVG XML'],
             storage: ['JSON', 'XML'],
-            animation: ['CSS', 'GSAP', 'Anime.js']
+            animation: ['CSS', 'GSAP', 'Anime.js'],
+            testing: ['Jest/Istanbul']
         },
         uxDesign: {
             tools: ['Much Browsers', 'Figma', 'XD']
