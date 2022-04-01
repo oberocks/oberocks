@@ -1,5 +1,5 @@
 ```javascript
-let oberocks = {
+const oberocks = {
     author: ['Matt McT'],
     expertise: ['Web Apps', 'Web Design Systems', 'Device Agnostic UI', 'TDD', 'Data Viz', 'Accessibility'],
     architectures: ['MPA', 'SPA', 'PWA', 'Static'],
