@@ -1,36 +1,37 @@
 ```javascript
 const oberocks = {
     author: ['Matt McT'],
-    expertise: ['Web Apps', 'Web Design Systems', 'Device Agnostic UI', 'TDD', 'Data Viz', 'Accessibility'],
+    expertise: ['Web Apps', 'Web Design Systems', 'Device Agnostic UI', 'Accessibility', 'TDD', 'Data Viz'],
     architectures: ['MPA', 'SPA', 'PWA', 'Static'],
     stacks: ['VILT', 'LEMP', 'JAM', 'LAMP', 'MEAN'],
     tools: {
         backEnd: {
-            php: ['Laravel', 'CodeIgniter', 'Node.js', 'Cake'],
+            php: ['Laravel' 'CodeIgniter', 'Cake'],
+            js: ['Node', 'Express'],
             storage: ['MySql', 'MongoDB', 'Sqlite'],
-            testing: ['PHPUnit', 'Laravel Dusk']
+            testing: ['PHPUnit', 'Laravel Dusk'],
         },
         frontEnd: {
             css: ['TailwindCSS', 'Bootstrap', 'Vuetify', 'OBE:BS4'],
-            js: ['Vue', 'Vanilla/ESM', 'jQuery', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
+            js: ['Vue', 'Vite', 'Vanilla/ESM', 'jQuery', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
             markup: ['HTML', 'SVG XML'],
             storage: ['JSON', 'XML'],
             animation: ['CSS', 'GSAP', 'Anime.js'],
-            testing: ['Jest/Istanbul']
+            testing: ['Jest/Istanbul'],
         },
         uxDesign: {
-            tools: ['Much Browsers', 'Figma', 'XD']
+            tools: ['Much Browsers', 'Figma', 'XD'],
         },
         visualDesign: {
-            tools: ['Illustrator', 'Photoshop', 'InDesign', 'Keynote', 'PowerPoint']
+            tools: ['Illustrator', 'Photoshop', 'InDesign', 'Keynote', 'PowerPoint'],
         },
         audio: {
-            tools: ['Reason', 'Pro Tools', 'Live']
+            tools: ['Reason', 'Pro Tools', 'Live'],
         },
         video: {
-            tools: ['After Effects', 'C4D', 'Premiere', 'Character Animator', 'iMovie']
+            tools: ['After Effects', 'C4D', 'Premiere', 'Character Animator', 'iMovie'],
         },
-        misc: ['Python', 'Ruby', 'ASP.NET']
+        misc: ['Python', 'Ruby', 'ASP.NET'],
     },
     enjoys: ['Digital Production', 'Mise en abymes', 'Learning', 'Surf/Skate', 'Pizza', 'Video Games'],
     studies: ['Media Production', 'Responsive Design', 'Color Theory', 'Behaviorial Psychology', 'Kinesiology'],
