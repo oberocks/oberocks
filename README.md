@@ -12,7 +12,7 @@ const oberocks = {
             testing: ['PHPUnit', 'Laravel Dusk'],
         },
         frontEnd: {
-            css: ['TailwindCSS', 'Bootstrap', 'Vuetify', 'OBE:BS4'],
+            css: ['Tailwind CSS', 'Bootstrap', 'Vuetify', 'OBE:BS4'],
             js: ['Vue', 'Vite', 'Vanilla/ESM', 'jQuery', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
             markup: ['HTML', 'SVG XML'],
             storage: ['JSON', 'XML'],
