@@ -17,7 +17,7 @@ const oberocks = {
             markup: ['HTML', 'SVG XML'],
             storage: ['JSON', 'XML'],
             animation: ['CSS', 'GSAP', 'Anime.js'],
-            testing: ['Jest/Istanbul', 'Vue Test Utils'],
+            testing: ['Vitest/c8', 'Jest/Istanbul', 'Vue Test Utils'],
         },
         uxDesign: {
             tools: ['Much Browsers', 'Figma', 'XD'],
