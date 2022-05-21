@@ -36,7 +36,7 @@ const oberocks = {
     enjoys: ['Digital Production', 'Mise en abymes', 'Learning', 'Surf/Skate', 'Pizza', 'Video Games'],
     studies: ['Media Production', 'Responsive Design', 'Color Theory', 'Behaviorial Psychology', 'Kinesiology'],
     tinkerings: ['DevOps', 'DevSec', 'Distributed Ledgers', 'Machine Learning'],
-};
+}
 ```
 
 
