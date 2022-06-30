@@ -20,7 +20,7 @@ const oberocks = {
             testing: ['Vitest/c8', 'Jest/Istanbul', 'Vue Test Utils'],
         },
         uxDesign: {
-            tools: ['Much Browsers', 'Figma', 'XD'],
+            tools: ['Much Browsers', 'XD', 'Figma'],
         },
         visualDesign: {
             tools: ['Illustrator', 'Photoshop', 'InDesign', 'Keynote', 'PowerPoint'],
