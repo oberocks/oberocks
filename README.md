@@ -13,7 +13,7 @@ const oberocks = {
         },
         frontEnd: {
             css: ['Tailwind CSS', 'Bootstrap', 'Vuetify', 'OBE:BS4'],
-            js: ['Vue', 'Vite', 'Vanilla/ESM', 'jQuery', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
+            js: ['Vue', 'Vite', 'Vanilla/ESM', 'Vite-SSG', 'jQuery', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
             markup: ['HTML', 'SVG XML'],
             storage: ['JSON', 'XML'],
             animation: ['CSS', 'GSAP', 'Anime.js'],
