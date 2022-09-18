@@ -7,7 +7,7 @@ const oberocks = {
     tools: {
         backEnd: {
             php: ['Laravel' 'CodeIgniter'],
-            js: ['Node', 'Express'],
+            js: ['Firebase', 'Node', 'Express'],
             storage: ['MySql', 'MongoDB', 'Sqlite'],
             testing: ['PHPUnit', 'Laravel Dusk'],
         },
