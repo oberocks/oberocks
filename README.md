@@ -6,8 +6,8 @@ const oberocks = {
     stacks: ['JAM', 'VILT', 'LEMP', 'LAMP', 'MEAN'],
     tools: {
         backEnd: {
-            php: ['Laravel' 'CodeIgniter'],
-            js: ['Firebase', 'Node.js', 'Express.js'],
+            php: ['Laravel', 'CodeIgniter'],
+            js: ['Node.js', 'Firebase', 'Express.js'],
             storage: ['MySql', 'MongoDB', 'Sqlite'],
             testing: ['PHPUnit', 'Laravel Dusk'],
         },
