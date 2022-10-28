@@ -8,14 +8,15 @@ const oberocks = {
         backEnd: {
             php: ['Laravel', 'CodeIgniter'],
             js: ['Node.js', 'Firebase', 'Express.js'],
-            storage: ['MySql', 'MongoDB', 'Sqlite'],
+            data: ['MySql', 'MongoDB', 'Sqlite'],
+            storage: ['Firestore', 'Google Cloud Storage'],
             testing: ['PHPUnit', 'Laravel Dusk'],
         },
         frontEnd: {
             css: ['Tailwind CSS', 'Bootstrap', 'Vuetify', 'OBE:BS4'],
             js: ['Vue', 'Vite', 'Vanilla/ESM', 'Vite-SSG', 'jQuery', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
             markup: ['HTML', 'SVG XML'],
-            storage: ['JSON', 'XML'],
+            data: ['JSON', 'XML'],
             animation: ['CSS', 'GSAP', 'Anime.js'],
             testing: ['Vitest/c8', 'Jest/Istanbul', 'Vue Test Utils'],
         },
