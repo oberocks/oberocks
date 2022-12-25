@@ -1,43 +1,5 @@
-```typescript
-interface BioToolsBackEnd {
-    php: string[]
-    js: string[]
-    data: string[]
-    storage: string[]
-    testing: string[]
-}
-
-interface BioToolsFrontEnd {
-    css: string[]
-    js: string[]
-    markup: string[]
-    data: string[]
-    animation: string[]
-    testing: string[]
-}
-
-interface BioTools {
-    backEnd: BioToolsBackEnd
-    frontEnd: BioToolsFrontEnd
-    uxDesign: string[]
-    visualDesign: string[]
-    audio: string[]
-    video: string[]
-    misc: string[]
-}
-
-interface Bio {
-    author: string
-    expertise: string[]
-    architectures: string[]
-    stacks: string[]
-    tools: BioTools
-    enjoys: string[]
-    studies: string[]
-    tinkerings: string[]
-}
-
-const oberocks: Bio = {
+```javascript 
+const oberocks = {
     author: 'Matt McT',
     expertise: ['Web Apps', 'Web Design Systems', 'Device Agnostic User Interfaces', 'Accessibility', 'Data Visualization', 'TDD'],
     architectures: ['MPA', 'SPA', 'PWA', 'Static'],
