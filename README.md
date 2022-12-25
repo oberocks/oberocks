@@ -1,6 +1,44 @@
-```javascript
-const oberocks = {
-    author: ['Matt McT'],
+```typescript
+interface BioToolsBackEnd {
+    php: string[]
+    js: string[]
+    data: string[]
+    storage: string[]
+    testing: string[]
+}
+
+interface BioToolsFrontEnd {
+    css: string[]
+    js: string[]
+    markup: string[]
+    data: string[]
+    animation: string[]
+    testing: string[]
+}
+
+interface BioTools {
+    backEnd: BioToolsBackEnd
+    frontEnd: BioToolsFrontEnd
+    uxDesign: string[]
+    visualDesign: string[]
+    audio: string[]
+    video: string[]
+    misc: string[]
+}
+
+interface Bio {
+    author: string
+    expertise: string[]
+    architectures: string[]
+    stacks: string[]
+    tools: BioTools
+    enjoys: string[]
+    studies: string[]
+    tinkerings: string[]
+}
+
+const oberocks: Bio = {
+    author: 'Matt McT',
     expertise: ['Web Apps', 'Web Design Systems', 'Device Agnostic User Interfaces', 'Accessibility', 'Data Visualization', 'TDD'],
     architectures: ['MPA', 'SPA', 'PWA', 'Static'],
     stacks: ['JAM', 'VILT', 'LEMP', 'LAMP', 'MEAN'],
@@ -20,18 +58,10 @@ const oberocks = {
             animation: ['CSS', 'GSAP', 'Anime.js'],
             testing: ['Vitest/c8', 'Jest/Istanbul', 'Vue Test Utils'],
         },
-        uxDesign: {
-            tools: ['Much Browsers', 'XD', 'Figma'],
-        },
-        visualDesign: {
-            tools: ['Illustrator', 'Photoshop', 'InDesign', 'Keynote', 'PowerPoint'],
-        },
-        audio: {
-            tools: ['Reason', 'Pro Tools', 'Live'],
-        },
-        video: {
-            tools: ['After Effects', 'C4D', 'Premiere', 'Character Animator', 'iMovie'],
-        },
+        uxDesign: ['Much Browsers', 'XD', 'Figma'],
+        visualDesign: ['Illustrator', 'Photoshop', 'InDesign', 'Keynote', 'PowerPoint'],
+        audio: ['Reason', 'Pro Tools', 'Live'],
+        video: ['After Effects', 'C4D', 'Premiere', 'Character Animator', 'iMovie'],
         misc: ['Python', 'Ruby', 'ASP.NET'],
     },
     enjoys: ['Digital Production', 'Mise en abymes', 'Learning', 'Surf/Skate', 'Pizza', 'Video Games'],
