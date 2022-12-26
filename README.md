@@ -3,7 +3,7 @@ const oberocks = {
     author: 'Matt McT',
     expertise: ['Web Apps', 'Web Design Systems', 'Device Agnostic UIs', 'Accessibility', 'Data Visualization', 'TDD'],
     architectures: ['MPA', 'SPA', 'PWA', 'Static'],
-    stacks: ['JAM', 'VILT', 'LEMP', 'LAMP', 'MEAN'],
+    stacks: ['JAM', 'MEVN', 'MEAN', 'VILT', 'LEMP', 'LAMP', 'Serverless'],
     tools: {
         backEnd: {
             php: ['Laravel', 'CodeIgniter'],
@@ -14,9 +14,9 @@ const oberocks = {
         },
         frontEnd: {
             css: ['Tailwind CSS', 'Bootstrap', 'Vuetify', 'OBE:BS4'],
-            js: ['Vue', 'Vite', 'Vanilla/ESM', 'Vite-SSG', 'jQuery', 'Alpine', 'Nuxt', 'Angular', 'React', 'Redux', 'D3', 'Charts.js'],
+            js: ['Vue', 'Vite', 'Vanilla/ESM', 'Vite-SSG', 'Nuxt', 'jQuery', 'React', 'Angular 2', 'Alpine', 'Svelte', 'Redux'],
             markup: ['HTML', 'SVG XML'],
-            data: ['JSON', 'XML'],
+            data: ['JSON', 'XML', 'D3', 'Charts.js'],
             animation: ['CSS', 'GSAP', 'Anime.js'],
             testing: ['Vitest/c8', 'Jest/Istanbul', 'Vue Test Utils'],
         },
