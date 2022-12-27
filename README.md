@@ -26,7 +26,7 @@ const oberocks = {
         video: ['After Effects', 'C4D', 'Premiere', 'Character Animator', 'iMovie'],
         misc: ['Python', 'Ruby', 'ASP.NET'],
     },
-    enjoys: ['Digital Production', 'Mise en abymes', 'Learning', 'Surf/Skate', 'Pizza', 'Video Games'],
+    enjoys: ['Digital Production', 'Mise en abymes', 'Learning', 'Surfing', 'Skateboarding', 'Pizza', 'Video Games'],
     studies: ['Media Production', 'Responsive Design', 'Color Theory', 'Behaviorial Psychology', 'Kinesiology'],
     tinkerings: ['DevOps', 'DevSec', 'Distributed Ledgers', 'Machine Learning'],
 }
