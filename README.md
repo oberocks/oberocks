@@ -27,7 +27,7 @@ const oberocks = {
         misc: ['Python', 'Ruby', 'ASP.NET'],
     },
     enjoys: ['Digital Production', 'Mise en abymes', 'Learning', 'Surfing', 'Skateboarding', 'Pizza', 'Video Games'],
-    studies: ['Media Production', 'Responsive Design', 'Color Theory', 'Behaviorial Psychology', 'Kinesiology'],
+    studies: ['Media Production', 'Responsive Design', 'Color Theory', 'Accessibility Techniques', 'Behaviorial Psychology', 'Kinesiology'],
     tinkerings: ['DevOps', 'DevSec', 'Distributed Ledgers', 'Machine Learning'],
 }
 ```
