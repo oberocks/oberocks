@@ -37,7 +37,7 @@ const oberocks = {
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oberocks&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-![oberocks' GitHub Stats](https://github-readme-stats.vercel.app/api?username=oberocks&count_private=true&show_icons=true&hide_border=true&theme=dracula)
+![oberocks' GitHub Stats](https://github-readme-stats.vercel.app/api?username=oberocks&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oberocks&layout=compact&langs_count=8&hide_border=true&theme=dracula&count_private=true&hide=html,nunjucks)
