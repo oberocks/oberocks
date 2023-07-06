@@ -15,7 +15,7 @@ const oberocks = {
         },
         frontEnd: {
             animation: ['CSS', 'GSAP', 'Anime.js'],
-            css: ['Tailwind CSS', 'Bootstrap', 'Vuetify', 'OBE:BS4'],
+            css: ['Tailwind CSS', 'Bootstrap', 'SASS', 'OBE:BS4'],
             data: ['JSON', 'XML', 'D3', 'Charts.js'],
             js: ['Vue', 'Vite', 'Vanilla/ESM', 'Vite-SSG', 'Nuxt', 'jQuery', 'React', 'Angular 2', 'Alpine', 'Svelte', 'Redux'],
             markup: ['HTML', 'SVG XML'],
