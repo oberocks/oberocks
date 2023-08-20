@@ -19,7 +19,7 @@ const oberocks = {
             data: ['JSON', 'XML', 'D3', 'Charts.js'],
             js: ['Vue', 'Vite', 'Vanilla/ESM', 'Vite-SSG', 'Nuxt', 'jQuery', 'React', 'Angular 2', 'Alpine', 'Svelte', 'Redux'],
             markup: ['HTML', 'SVG XML'],
-            testing: ['Vitest/c8', 'Jest/Istanbul', 'Vue Test Utils'],
+            testing: ['Vitest/v8', 'Jest/Istanbul', 'Vue Test Utils'],
         },
         uxDesign: ['Much Browsers', 'XD', 'Figma'],
         visualDesign: ['Illustrator', 'Photoshop', 'InDesign', 'Keynote', 'PowerPoint'],
