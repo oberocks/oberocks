@@ -5,14 +5,6 @@ const oberocks = {
     architectures: ['MPA', 'SPA', 'PWA', 'Static', 'Serverless'],
     stacks: ['VILT', 'JAM', 'MEVN', 'MEAN', 'LEMP', 'LAMP'],
     tools: {
-        backEnd: {
-            compiled: ['Go'],
-            data: ['MySql', 'MongoDB', 'Sqlite'],
-            js: ['Node.js', 'Firebase', 'Express.js'],
-            php: ['Laravel', 'CodeIgniter'],
-            storage: ['Firestore', 'Google Cloud Storage'],
-            testing: ['PHPUnit', 'Laravel Dusk'],
-        },
         frontEnd: {
             animation: ['CSS', 'GSAP', 'Anime.js'],
             css: ['Tailwind CSS', 'Bootstrap', 'SASS', 'OBE:BS4'],
@@ -20,6 +12,14 @@ const oberocks = {
             js: ['Vue', 'Vite', 'Vanilla/ESM', 'Vite-SSG', 'Nuxt', 'jQuery', 'React', 'Angular 2', 'Alpine', 'Svelte', 'Redux'],
             markup: ['HTML', 'SVG XML'],
             testing: ['Vitest/v8', 'Jest/Istanbul', 'Vue Test Utils'],
+        },
+        backEnd: {
+            compiled: ['Go'],
+            data: ['MySql', 'MongoDB', 'Sqlite'],
+            js: ['Node.js', 'Firebase', 'Express.js'],
+            php: ['Laravel', 'CodeIgniter'],
+            storage: ['Firestore', 'Google Cloud Storage'],
+            testing: ['PHPUnit', 'Laravel Dusk'],
         },
         uxDesign: ['Much Browsers', 'XD', 'Figma'],
         visualDesign: ['Illustrator', 'Photoshop', 'InDesign', 'Keynote', 'PowerPoint'],
