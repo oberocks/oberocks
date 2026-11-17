@@ -35,9 +35,9 @@ const oberocks = {
 
 
 <div align="center">
-
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oberocks&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
+-->
 <!--
 ![oberocks' GitHub Stats](https://github-readme-stats.vercel.app/api?username=oberocks&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)
 -->
